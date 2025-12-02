@@ -10,6 +10,8 @@ __pycache__/
 .env
 .env.local
 .env.*
+!.env.example
+!apps/**/.env.example
 apps/frontend/.env
 apps/backend/.env
 
