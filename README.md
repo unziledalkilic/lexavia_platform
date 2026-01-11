@@ -4,9 +4,6 @@
 
 Lexavia, kişiselleştirilmiş dil öğrenimi deneyimi sunan modern bir web uygulamasıdır. Backend tarafında **FastAPI** ve AI özellikleri, Frontend tarafında ise **Next.js** kullanılarak geliştirilmiştir.
 
-![Project Status](https://img.shields.io/badge/status-active-success.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## 🚀 Özellikler
 
 - **🤖 AI Tabanlı İçerik**: Seviyenize uygun kelime ve quizleri yapay zeka oluşturur.
