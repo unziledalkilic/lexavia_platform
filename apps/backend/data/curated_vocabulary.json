@@ -1,0 +1,482 @@
+[
+    {
+        "word": "apple",
+        "translation": "elma",
+        "level": "A1",
+        "category": "food",
+        "context_sentence": "I eat an apple every day.",
+        "turkish_sentence": "Her gün bir elma yerim."
+    },
+    {
+        "word": "book",
+        "translation": "kitap",
+        "level": "A1",
+        "category": "education",
+        "context_sentence": "I am reading a good book.",
+        "turkish_sentence": "İyi bir kitap okuyorum."
+    },
+    {
+        "word": "cat",
+        "translation": "kedi",
+        "level": "A1",
+        "category": "animals",
+        "context_sentence": "The cat is sleeping on the sofa.",
+        "turkish_sentence": "Kedi kanepede uyuyor."
+    },
+    {
+        "word": "dog",
+        "translation": "köpek",
+        "level": "A1",
+        "category": "animals",
+        "context_sentence": "My dog loves to play outside.",
+        "turkish_sentence": "Köpeğim dışarıda oynamayı sever."
+    },
+    {
+        "word": "house",
+        "translation": "ev",
+        "level": "A1",
+        "category": "general",
+        "context_sentence": "Their house represents a typical suburban home.",
+        "turkish_sentence": "Onların evi tipik bir banliyö evini temsil ediyor."
+    },
+    {
+        "word": "school",
+        "translation": "okul",
+        "level": "A1",
+        "category": "education",
+        "context_sentence": "School starts at 8 AM.",
+        "turkish_sentence": "Okul sabah 8'de başlar."
+    },
+    {
+        "word": "friend",
+        "translation": "arkadaş",
+        "level": "A1",
+        "category": "people",
+        "context_sentence": "She is my best friend.",
+        "turkish_sentence": "O benim en iyi arkadaşım."
+    },
+    {
+        "word": "water",
+        "translation": "su",
+        "level": "A1",
+        "category": "food",
+        "context_sentence": "Can I have a glass of water?",
+        "turkish_sentence": "Bir bardak su alabilir miyim?"
+    },
+    {
+        "word": "money",
+        "translation": "para",
+        "level": "A1",
+        "category": "general",
+        "context_sentence": "I need some money to buy lunch.",
+        "turkish_sentence": "Öğle yemeği almak için biraz paraya ihtiyacım var."
+    },
+    {
+        "word": "red",
+        "translation": "kırmızı",
+        "level": "A1",
+        "category": "colors",
+        "context_sentence": "She wore a beautiful red dress.",
+        "turkish_sentence": "Güzel kırmızı bir elbise giydi."
+    },
+    {
+        "word": "decision",
+        "translation": "karar",
+        "level": "A2",
+        "category": "general",
+        "context_sentence": "It was a difficult decision to make.",
+        "turkish_sentence": "Vermesi zor bir karardı."
+    },
+    {
+        "word": "available",
+        "translation": "müsait, mevcut",
+        "level": "A2",
+        "category": "general",
+        "context_sentence": "Is this seat available?",
+        "turkish_sentence": "Bu koltuk müsait mi?"
+    },
+    {
+        "word": "experience",
+        "translation": "deneyim",
+        "level": "A2",
+        "category": "work",
+        "context_sentence": "He has a lot of experience in sales.",
+        "turkish_sentence": "Satış konusunda çok deneyimi var."
+    },
+    {
+        "word": "improve",
+        "translation": "geliştirmek",
+        "level": "A2",
+        "category": "general",
+        "context_sentence": "I want to improve my English skills.",
+        "turkish_sentence": "İngilizce becerilerimi geliştirmek istiyorum."
+    },
+    {
+        "word": "possible",
+        "translation": "mümkün",
+        "level": "A2",
+        "category": "general",
+        "context_sentence": "Is it possible to finish this by tomorrow?",
+        "turkish_sentence": "Bunu yarına kadar bitirmek mümkün mü?"
+    },
+    {
+        "word": "offer",
+        "translation": "teklif etmek",
+        "level": "A2",
+        "category": "business",
+        "context_sentence": "Can I offer you something to drink?",
+        "turkish_sentence": "Size içecek bir şey ikram edebilir miyim?"
+    },
+    {
+        "word": "recently",
+        "translation": "son zamanlarda",
+        "level": "A2",
+        "category": "time",
+        "context_sentence": "Have you seen him recently?",
+        "turkish_sentence": "Onu son zamanlarda gördün mü?"
+    },
+    {
+        "word": "believe",
+        "translation": "inanmak",
+        "level": "A2",
+        "category": "thought",
+        "context_sentence": "I believe we can win this game.",
+        "turkish_sentence": "Bu oyunu kazanabileceğimize inanıyorum."
+    },
+    {
+        "word": "future",
+        "translation": "gelecek",
+        "level": "A2",
+        "category": "time",
+        "context_sentence": "What are your plans for the future?",
+        "turkish_sentence": "Gelecek için planların ne?"
+    },
+    {
+        "word": "simple",
+        "translation": "basit",
+        "level": "A2",
+        "category": "general",
+        "context_sentence": "It's a very simple question.",
+        "turkish_sentence": "Çok basit bir soru."
+    },
+    {
+        "word": "environment",
+        "translation": "çevre",
+        "level": "B1",
+        "category": "nature",
+        "context_sentence": "We must protect the environment.",
+        "turkish_sentence": "Çevreyi korumalıyız."
+    },
+    {
+        "word": "complain",
+        "translation": "şikayet etmek",
+        "level": "B1",
+        "category": "communication",
+        "context_sentence": "He always complains about the weather.",
+        "turkish_sentence": "Her zaman hava durumu hakkında şikayet eder."
+    },
+    {
+        "word": "achieve",
+        "translation": "başarmak",
+        "level": "B1",
+        "category": "success",
+        "context_sentence": "You can achieve anything if you work hard.",
+        "turkish_sentence": "Çok çalışırsan her şeyi başarabilirsin."
+    },
+    {
+        "word": "behaviour",
+        "translation": "davranış",
+        "level": "B1",
+        "category": "general",
+        "context_sentence": "His behaviour was unacceptable.",
+        "turkish_sentence": "Davranışı kabul edilemezdi."
+    },
+    {
+        "word": "candidate",
+        "translation": "aday",
+        "level": "B1",
+        "category": "politics",
+        "context_sentence": "He is a candidate for the presidency.",
+        "turkish_sentence": "O, başkanlık için bir aday."
+    },
+    {
+        "word": "confuse",
+        "translation": "kafasını karıştırmak",
+        "level": "B1",
+        "category": "thought",
+        "context_sentence": "Don't confuse me with too many details.",
+        "turkish_sentence": "Çok fazla detayla kafamı karıştırma."
+    },
+    {
+        "word": "creative",
+        "translation": "yaratıcı",
+        "level": "B1",
+        "category": "art",
+        "context_sentence": "She is a very creative artist.",
+        "turkish_sentence": "O çok yaratıcı bir sanatçı."
+    },
+    {
+        "word": "decrease",
+        "translation": "azalmak",
+        "level": "B1",
+        "category": "general",
+        "context_sentence": "The number of students has decreased.",
+        "turkish_sentence": "Öğrenci sayısı azaldı."
+    },
+    {
+        "word": "encourage",
+        "translation": "cesaretlendirmek",
+        "level": "B1",
+        "category": "communication",
+        "context_sentence": "My teacher always encourages me.",
+        "turkish_sentence": "Öğretmenim beni her zaman cesaretlendirir."
+    },
+    {
+        "word": "frequently",
+        "translation": "sık sık",
+        "level": "B1",
+        "category": "time",
+        "context_sentence": "We frequently visit our grandparents.",
+        "turkish_sentence": "Büyükannem ve büyükbabamızı sık sık ziyaret ederiz."
+    },
+    {
+        "word": "negotiate",
+        "translation": "müzakere etmek",
+        "level": "B2",
+        "category": "business",
+        "context_sentence": "They are trying to negotiate a new contract.",
+        "turkish_sentence": "Yeni bir sözleşme müzakere etmeye çalışıyorlar."
+    },
+    {
+        "word": "significant",
+        "translation": "önemli, kayda değer",
+        "level": "B2",
+        "category": "general",
+        "context_sentence": "There has been a significant change in the plan.",
+        "turkish_sentence": "Planda önemli bir değişiklik oldu."
+    },
+    {
+        "word": "abandon",
+        "translation": "terk etmek",
+        "level": "B2",
+        "category": "general",
+        "context_sentence": "They had to abandon their car in the snow.",
+        "turkish_sentence": "Arabalarını karda terk etmek zorunda kaldılar."
+    },
+    {
+        "word": "calculate",
+        "translation": "hesaplamak",
+        "level": "B2",
+        "category": "science",
+        "context_sentence": "Can you calculate the total cost?",
+        "turkish_sentence": "Toplam maliyeti hesaplayabilir misin?"
+    },
+    {
+        "word": "capacity",
+        "translation": "kapasite",
+        "level": "B2",
+        "category": "general",
+        "context_sentence": "The stadium has a seating capacity of 50,000.",
+        "turkish_sentence": "Stadyumun 50.000 kişilik oturma kapasitesi var."
+    },
+    {
+        "word": "efficient",
+        "translation": "verimli",
+        "level": "B2",
+        "category": "work",
+        "context_sentence": "This is a more efficient way of working.",
+        "turkish_sentence": "Bu daha verimli bir çalışma şekli."
+    },
+    {
+        "word": "guarantee",
+        "translation": "garanti etmek",
+        "level": "B2",
+        "category": "business",
+        "context_sentence": "We cannot guarantee the results.",
+        "turkish_sentence": "Sonuçları garanti edemeyiz."
+    },
+    {
+        "word": "initial",
+        "translation": "ilk, başlangıç",
+        "level": "B2",
+        "category": "time",
+        "context_sentence": "My initial reaction was surprise.",
+        "turkish_sentence": "İlk tepkim şaşkınlıktı."
+    },
+    {
+        "word": "landscape",
+        "translation": "manzara",
+        "level": "B2",
+        "category": "nature",
+        "context_sentence": "The landscape here is beautiful.",
+        "turkish_sentence": "Buradaki manzara çok güzel."
+    },
+    {
+        "word": "predict",
+        "translation": "tahmin etmek",
+        "level": "B2",
+        "category": "thought",
+        "context_sentence": "It is hard to predict the future.",
+        "turkish_sentence": "Geleceği tahmin etmek zordur."
+    },
+    {
+        "word": "resilient",
+        "translation": "dirençli, esnek",
+        "level": "C1",
+        "category": "personality",
+        "context_sentence": "Children are resilient and adapt to change quickly.",
+        "turkish_sentence": "Çocuklar dirençlidir ve değişime çabuk uyum sağlarlar."
+    },
+    {
+        "word": "inevitable",
+        "translation": "kaçınılmaz",
+        "level": "C1",
+        "category": "general",
+        "context_sentence": "Change is inevitable in life.",
+        "turkish_sentence": "Hayatta değişim kaçınılmazdır."
+    },
+    {
+        "word": "accumulate",
+        "translation": "biriktirmek",
+        "level": "C1",
+        "category": "general",
+        "context_sentence": "Dust has accumulated on the shelves.",
+        "turkish_sentence": "Raflarda toz birikmiş."
+    },
+    {
+        "word": "collapse",
+        "translation": "çökmek",
+        "level": "C1",
+        "category": "general",
+        "context_sentence": "The building collapsed during the earthquake.",
+        "turkish_sentence": "Bina deprem sırasında çöktü."
+    },
+    {
+        "word": "derive",
+        "translation": "türetmek, elde etmek",
+        "level": "C1",
+        "category": "academic",
+        "context_sentence": "Many English words are derived from Latin.",
+        "turkish_sentence": "Birçok İngilizce kelime Latince'den türetilmiştir."
+    },
+    {
+        "word": "enhance",
+        "translation": "geliştirmek, artırmak",
+        "level": "C1",
+        "category": "general",
+        "context_sentence": "Good lighting will enhance the room's appearance.",
+        "turkish_sentence": "İyi aydınlatma odanın görünümünü iyileştirecektir."
+    },
+    {
+        "word": "innovation",
+        "translation": "yenilik, inovasyon",
+        "level": "C1",
+        "category": "business",
+        "context_sentence": "Innovation is key to success.",
+        "turkish_sentence": "İnovasyon başarının anahtarıdır."
+    },
+    {
+        "word": "mechanism",
+        "translation": "mekanizma",
+        "level": "C1",
+        "category": "technology",
+        "context_sentence": "The watch has a complex mechanism.",
+        "turkish_sentence": "Saatin karmaşık bir mekanizması var."
+    },
+    {
+        "word": "perspective",
+        "translation": "bakış açısı",
+        "level": "C1",
+        "category": "thought",
+        "context_sentence": "Try to see things from my perspective.",
+        "turkish_sentence": "Olaylara benim bakış açımdan bakmaya çalış."
+    },
+    {
+        "word": "widespread",
+        "translation": "yaygın",
+        "level": "C1",
+        "category": "general",
+        "context_sentence": "There is widespread support for the new law.",
+        "turkish_sentence": "Yeni yasa için yaygın bir destek var."
+    },
+    {
+        "word": "ambiguous",
+        "translation": "belirsiz, muğlak",
+        "level": "C2",
+        "category": "abstract",
+        "context_sentence": "The ending of the movie was ambiguous.",
+        "turkish_sentence": "Filmin sonu muğlaktı."
+    },
+    {
+        "word": "epiphany",
+        "translation": "aydınlanma anı",
+        "level": "C2",
+        "category": "abstract",
+        "context_sentence": "She had an epiphany and realized what she wanted to do.",
+        "turkish_sentence": "Bir aydınlanma anı yaşadı ve ne yapmak istediğini fark etti."
+    },
+    {
+        "word": "anomaly",
+        "translation": "anomali, sapma",
+        "level": "C2",
+        "category": "science",
+        "context_sentence": "The scientist detected an anomaly in the data.",
+        "turkish_sentence": "Bilim adamı verilerde bir anomali tespit etti."
+    },
+    {
+        "word": "coherent",
+        "translation": "tutarlı, mantıklı",
+        "level": "C2",
+        "category": "communication",
+        "context_sentence": "He gave a clear and coherent explanation.",
+        "turkish_sentence": "Açık ve tutarlı bir açıklama yaptı."
+    },
+    {
+        "word": "differentiate",
+        "translation": "ayırt etmek",
+        "level": "C2",
+        "category": "thought",
+        "context_sentence": "It is hard to differentiate between the two originals.",
+        "turkish_sentence": "İki orijinali birbirinden ayırt etmek zor."
+    },
+    {
+        "word": "fluctuation",
+        "translation": "dalgalanma",
+        "level": "C2",
+        "category": "economics",
+        "context_sentence": "There have been minor fluctuations in the price.",
+        "turkish_sentence": "Fiyatta küçük dalgalanmalar oldu."
+    },
+    {
+        "word": "hierarchy",
+        "translation": "hiyerarşi",
+        "level": "C2",
+        "category": "structure",
+        "context_sentence": "The company has a rigid hierarchy.",
+        "turkish_sentence": "Şirketin katı bir hiyerarşisi var."
+    },
+    {
+        "word": "integrity",
+        "translation": "bütünlük, dürüstlük",
+        "level": "C2",
+        "category": "ethics",
+        "context_sentence": "He is a man of great integrity.",
+        "turkish_sentence": "O, büyük bir dürüstlüğe sahip bir adamdır."
+    },
+    {
+        "word": "paradigm",
+        "translation": "paradigma, model",
+        "level": "C2",
+        "category": "abstract",
+        "context_sentence": "This discovery represents a new paradigm in physics.",
+        "turkish_sentence": "Bu keşif fizikte yeni bir paradigmayı temsil ediyor."
+    },
+    {
+        "word": "subsequent",
+        "translation": "sonraki, izleyen",
+        "level": "C2",
+        "category": "time",
+        "context_sentence": "Those events happened in subsequent years.",
+        "turkish_sentence": "O olaylar sonraki yıllarda oldu."
+    }
+]

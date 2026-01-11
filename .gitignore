@@ -6,14 +6,11 @@ node_modules/
 __pycache__/
 .venv/
 
-# Env files
-.env
-.env.local
-.env.*
+# Env files - TEMPORARILY DISABLED FOR DEVELOPMENT
+# .env
+# .env.local
+# .env.*
 !.env.example
-!apps/**/.env.example
-apps/frontend/.env
-apps/backend/.env
 
 # OS
 .DS_Store

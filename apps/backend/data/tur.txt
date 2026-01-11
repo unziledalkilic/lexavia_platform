@@ -1,0 +1,99 @@
+Hi.	Merhaba.
+Run!	Koş!
+Who?	Kim?
+Wow!	Vay canına!
+Fire!	Yangın!
+Help!	İmdat!
+Jump!	Zıpla!
+Stop!	Dur!
+Wait!	Bekle!
+Go on.	Devam et.
+Hello!	Merhaba!
+I see.	Anlıyorum.
+I try.	Denerim.
+I won!	Kazandım!
+I won.	Kazandım.
+Oh no!	Ah hayır!
+Relax.	Rahatla.
+Smile.	Gülümse.
+Attack!	Saldır!
+Cheers!	Şerefe!
+Get up.	Kalk.
+Go now.	Şimdi git.
+Got it!	Anladım!
+Got it?	Anladın mı?
+He ran.	O koştu.
+Hop in.	Atla.
+Hug me.	Bana sarıl.
+I fell.	Düştüm.
+I know.	Biliyorum.
+I left.	Ayrıldım.
+I lied.	Yalan söyledim.
+I lost.	Kaybettim.
+I paid.	Ödedim.
+I swim.	Yüzerim.
+I'm 19.	19 yaşındayım.
+I'm OK.	İyiyim.
+Listen.	Dinle.
+No way!	Olamaz!
+Really?	Gerçekten mi?
+Thanks.	Teşekkürler.
+Try it.	Dene.
+We try.	Deneriz.
+We won.	Kazandık.
+Ask Tom.	Tom'a sor.
+Awesome!	Harika!
+Be cool.	Sakin ol.
+Be fair.	Adil ol.
+Be kind.	Kibar ol.
+Be nice.	İyi ol.
+Beat it.	Defol.
+Call me.	Beni ara.
+Call us.	Bizi ara.
+Come in.	İçeri gel.
+Come on!	Hadi ama!
+Come on.	Hadi.
+Get out!	Dışarı çık!
+Go away!	Git başımdan!
+Go home.	Eve git.
+Goodbye!	Güle güle!
+Hang on!	Bekle!
+He came.	O geldi.
+He runs.	O koşar.
+Help me.	Bana yardım et.
+Help us.	Bize yardım et.
+Hold on.	Bekle.
+I agree.	Katılıyorum.
+I cried.	Ağladım.
+I dozed.	Şekerleme yaptım.
+I drive.	Araba sürerim.
+I smoke.	Sigara içerim.
+I snore.	Horlarım.
+I stink.	Kötü kokuyorum.
+I stood.	Ayakta durdum.
+I swore.	Yemin ettim.
+I tried.	Denedim.
+I waved.	El salladım.
+I'll go.	Gideceğim.
+I'm Tom.	Ben Tom.
+I'm fat.	Ben şişmanım.
+I'm fit.	Ben formdayım.
+I'm hit!	Vuruldum!
+I'm ill.	Hastayım.
+I'm old.	Yaşlıyım.
+I'm sad.	Üzgünüm.
+I'm shy.	Utangacım.
+I'm wet.	Islandım.
+It's me.	Bu benim.
+Join us.	Bize katıl.
+Keep it.	Sakla onu.
+Kiss me.	Öp beni.
+Let go!	Bırak!
+Look at me. Beni izle.
+Love me.	Beni sev.
+Open up.	Aç kapıyı.
+Pick me.	Beni seç.
+Push it.	İt onu.
+Quit it.	Bırak şunu.
+Read it.	Oku onu.
+Save me.	Kurtar beni.
