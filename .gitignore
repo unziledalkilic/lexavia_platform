@@ -6,10 +6,10 @@ node_modules/
 __pycache__/
 .venv/
 
-# Env files - TEMPORARILY DISABLED FOR DEVELOPMENT
-# .env
-# .env.local
-# .env.*
+# Env files
+.env
+.env.local
+.env.*
 !.env.example
 
 # OS
